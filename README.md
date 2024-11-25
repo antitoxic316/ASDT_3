@@ -1,4 +1,4 @@
-#Informajca o mnie
+# Informajca o mnie
 ## MOje hobby
 1. Gra na gitarze
 	-Moje ulubione piosenki
